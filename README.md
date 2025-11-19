@@ -4,18 +4,8 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
-🔭 현재 [진행 중인 프로젝트/관심사]에 집중하고 있습니다.
-🌱 꾸준히 [새로 배우는 기술]을 공부하고 있습니다.
-💬 [기술 분야]에 대한 질문은 언제든 환영합니다!
-
-- 👋 Hi, I’m @EmmettHwang
-- <img width="369" height="441" alt="image" src="https://github.com/user-attachments/assets/87188101-149f-44aa-8e01-7eaf81c72323" />
-
+- <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/87188101-149f-44aa-8e01-7eaf81c72323" />
 - 👀 I’m interested in 로봇하고 노는거에요 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 #### 최근에 만든 프로그램은 
 교육 관리 시스템입니다. http://www.kdt2025.com/ 
