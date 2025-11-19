@@ -1,9 +1,15 @@
 ### 안녕하세요! 👋 저는 황동하라고 합니다. 
 🌱 제가 주로 사용하는 프로그래밍 언어는 다음과 같습니다.
 ### 🛠️ My Tech Stack
-
+[![EmmettHwang's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmmettHwang&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmmettHwang&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=EmmettHwang&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 - <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/87188101-149f-44aa-8e01-7eaf81c72323" />
 - 👀 I’m interested in 로봇하고 노는거에요 
 
