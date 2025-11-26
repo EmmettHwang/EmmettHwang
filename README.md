@@ -12,3 +12,6 @@
 
 ### 2025년 11월 26일 파이썬 개발 환경을 구축하고 나의 첫번째 파이썬 
 https://github.com/EmmettHwang/myProject01
+
+### 2025년 11월 26일 mbti_GUI를 만들다 
+https://github.com/EmmettHwang/mbtiGUI_2025
