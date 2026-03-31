@@ -15,3 +15,9 @@ https://github.com/EmmettHwang/myProject01
 
 ### 2025년 11월 26일 mbti_GUI를 만들다 
 https://github.com/EmmettHwang/mbtiGUI_2025
+
+### 2026 03 31 my First Web Project 
+
+<img width="958" height="616" alt="image" src="https://github.com/user-attachments/assets/24a0188c-ef98-4e25-8112-a06895c22aa0" />
+
+https://emmetthwang.github.io/myweb01/
