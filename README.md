@@ -1,7 +1,6 @@
 ## 나는 황동하라고 해 
-<p align="center">
-  <img src="티처스_황.png" width="400">
-</p>
+<img width="1202" height="934" alt="image" src="https://github.com/user-attachments/assets/8a43c52a-deda-4c35-ad84-261ef7d1e8b2" />
+
 
 
 ## 내가 하고 있는 사물인식 프로젝트는 최종적으로 로봇을 컨트롤 하는데 까지 합니다. 
@@ -17,5 +16,5 @@
 ## 웹앱으로 구현한 사물인식
 1. YOLO 실시간 사물인식 https://github.com/wsitedustd3-dev/yolo_webapp    
    실행해보기 https://wsitedustd3-dev.github.io/yolo_webapp/
-2. YOLO+ROBOT
-   
+2. YOLO + ROBOT https://github.com/wsitedustd3-dev/yolo_robot_webapp
+   실행해보기 https://wsitedustd3-dev.github.io/yolo_robot_webapp/    
