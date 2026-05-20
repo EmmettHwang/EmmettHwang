@@ -1,5 +1,7 @@
 ## 나는 황동하라고 해 
-<img width="1202" height="934" alt="image" src="https://github.com/user-attachments/assets/8a43c52a-deda-4c35-ad84-261ef7d1e8b2" />
+<p align="center">
+   <img width="400" alt="image" src="https://github.com/user-attachments/assets/8a43c52a-deda-4c35-ad84-261ef7d1e8b2" />
+</p>
 
 
 
